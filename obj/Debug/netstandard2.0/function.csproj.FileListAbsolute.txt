@@ -1,0 +1,10 @@
+C:\Users\qingr\Downloads\Function\bin\Debug\netstandard2.0\host.json
+C:\Users\qingr\Downloads\Function\bin\Debug\netstandard2.0\function.deps.json
+C:\Users\qingr\Downloads\Function\bin\Debug\netstandard2.0\function.dll
+C:\Users\qingr\Downloads\Function\bin\Debug\netstandard2.0\function.pdb
+C:\Users\qingr\Downloads\Function\obj\Debug\netstandard2.0\function.csprojAssemblyReference.cache
+C:\Users\qingr\Downloads\Function\obj\Debug\netstandard2.0\function.AssemblyInfoInputs.cache
+C:\Users\qingr\Downloads\Function\obj\Debug\netstandard2.0\function.AssemblyInfo.cs
+C:\Users\qingr\Downloads\Function\obj\Debug\netstandard2.0\function.csproj.CoreCompileInputs.cache
+C:\Users\qingr\Downloads\Function\obj\Debug\netstandard2.0\function.dll
+C:\Users\qingr\Downloads\Function\obj\Debug\netstandard2.0\function.pdb

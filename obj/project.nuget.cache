@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ERrqX66h8xvDf/zY3/d+vJuvUEklmKOk4PrA3dbjB+k60ib7Opp/kp7YGqZW00kJILXCilOVUdd4wYYZjUeiYQ==",
+  "dgSpecHash": "THMEOrd/Krbkvu+qi6aygAPlqKGx0ToU/5lO7XL0gea8S23tAOPj7+mVnTwGL/zzotpDo47hn+2kHk78yvVhyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\qingr\\Downloads\\Function\\ParseOCRJson\\function.proj",
+  "projectFilePath": "C:\\Users\\qingr\\Downloads\\Function\\function.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\qingr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\qingr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

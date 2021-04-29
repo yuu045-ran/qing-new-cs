@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+         <AzureFunctionVersion>v2</AzureFunctionVersion>
+    <RootNamespace>Function</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+      <PackageReference Include="Range" Version="3.0.6" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="host.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+</Project>
+

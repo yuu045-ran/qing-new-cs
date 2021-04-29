@@ -210,11 +210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\qingr\\Downloads\\Function\\ParseOCRJson\\function.proj",
+      "projectUniqueName": "C:\\Users\\qingr\\Downloads\\Function\\function.csproj",
       "projectName": "function",
-      "projectPath": "C:\\Users\\qingr\\Downloads\\Function\\ParseOCRJson\\function.proj",
+      "projectPath": "C:\\Users\\qingr\\Downloads\\Function\\function.csproj",
       "packagesPath": "C:\\Users\\qingr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\qingr\\Downloads\\Function\\ParseOCRJson\\obj\\",
+      "outputPath": "C:\\Users\\qingr\\Downloads\\Function\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -235,6 +235,11 @@
           "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
       }
     },
     "frameworks": {
