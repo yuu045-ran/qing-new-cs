@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+         <AzureFunctionVersion>v2</AzureFunctionVersion>
+    </PropertyGroup>    
+    <ItemGroup>
+        <PackageReference Include="Range" Version="3.0.6" />
+    </ItemGroup>    
+</Project>
